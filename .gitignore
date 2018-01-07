@@ -1,0 +1,17 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+.project
+.classpath
+/target/
+.DS_Store
+/.svn/
+/.settings/
